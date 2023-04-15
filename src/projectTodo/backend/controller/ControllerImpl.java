@@ -76,7 +76,6 @@ public class ControllerImpl implements Controller{
                 myTodo.setCompleted(true);
                 return true;
             }
-
         }
         return false;
     }
